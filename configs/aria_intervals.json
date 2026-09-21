@@ -1,0 +1,66 @@
+{
+  "DA-cleanup/01": [
+    101,
+    940
+  ],
+  "DA-multiYCB/02": [
+    155,
+    1241
+  ],
+  "DA-multiYCB/03": [
+    125,
+    1085
+  ],
+  "DA-multiYCB/04": [
+    101,
+    1137
+  ],
+  "DA-multiYCB/05": [
+    197,
+    1608
+  ],
+  "DA-multiYCB/06": [
+    181,
+    962
+  ],
+  "DA-singleYCB-Part1/07": [
+    410,
+    640
+  ],
+  "DA-singleYCB-Part1/08": [
+    260,
+    621
+  ],
+  "DA-singleYCB-Part1/09": [
+    279,
+    940
+  ],
+  "DA-singleYCB-Part1/10": [
+    298,
+    817
+  ],
+  "DA-singleYCB-Part1/11": [
+    238,
+    1003
+  ],
+  "DA-singleYCB-Part2/12": [
+    262,
+    1275
+  ],
+  "DA-singleYCB-Part2/13": [
+    225,
+    624
+  ],
+  "DA-singleYCB-Part2/14": [
+    197,
+    1110
+  ],
+  "DA-singleYCB-Part2/15": [
+    376,
+    1467
+  ],
+  "DA-singleYCB-Part2/16": [
+    361,
+    1564
+  ]
+}

@@ -1,0 +1,4 @@
+Pillow>=9.1
+opencv-python-headless>=4.8
+torch>=2.2
+torchmetrics[image]>=1.4,<2
